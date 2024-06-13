@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">desafio3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TxtEdit">Escribe una contraseña</string>
+    <string name="btn_name">Show Message</string>
+    <string name="btn_name2">LOGIN</string>
+    <string name="txtView">La contraseña debe contar con mas de 5 caracteres y al menos una mayuscula</string>
+</resources>
